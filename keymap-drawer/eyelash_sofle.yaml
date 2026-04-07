@@ -93,10 +93,10 @@ layers:
   - {t: '0', s: )}
   - F12
   - {t: '$$mdi:transfer$$', type: trans}
-  - Sft+{
+  - '{'
   - {t: '[', s: '{'}
-  - Sft+}
   - {t: ']', s: '}'}
+  - '}'
   - {t: '=', s: +}
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - PG UP
