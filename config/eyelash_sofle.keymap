@@ -26,6 +26,9 @@
     trigger-period-ms = <16>;
 };
 
+// for now the braces and brackets fixed with the zmk studio 
+// neet to find more permenanat solution
+
 &soft_off { hold-time-ms = <2000>; };
 
 / {
