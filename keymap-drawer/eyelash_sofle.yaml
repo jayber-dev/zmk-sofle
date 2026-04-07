@@ -97,7 +97,7 @@ layers:
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
   - '}'
-  - '&mkp MB5'
+  - {t: '=', s: +}
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - PG UP
   - $$mdi:arrow-left-bold$$
