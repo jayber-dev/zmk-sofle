@@ -94,8 +94,8 @@ layers:
   - F12
   - {t: '$$mdi:transfer$$', type: trans}
   - Sft+{
-  - '{'
-  - '}'
+  - {t: '[', s: '{'}
+  - {t: ']', s: '}'}
   - Sft+}
   - {t: '=', s: +}
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
